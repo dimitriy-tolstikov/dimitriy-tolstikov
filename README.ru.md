@@ -1,14 +1,14 @@
-# Привет, я Дмитрий 👋
+# Дмитрий Толстиков
 
 **[🇬🇧 English version](README.md)**
 
-Fullstack-разработчик (.NET Core + React / TypeScript), интересуюсь DevOps, микросервисами и инструментами для AI-агентов.
+Fullstack-разработчик (.NET Core + React / TypeScript): backend-архитектура, DevOps, инструменты для AI-агентов. Использую AI-агентов в повседневной разработке — и пишу для них MCP-серверы.
 
-## 🛠 Стек
+## Стек
 
 C# · ASP.NET Core · NestJS · React 19 · TypeScript · Vue 3 · WPF · PostgreSQL · Redis · Kafka · RabbitMQ · Docker · nginx · GitHub Actions · Tauri
 
-## 📌 Ключевые проекты
+## Ключевые проекты
 
 - **[WikiBase](https://github.com/dimitriy-tolstikov/WikiBase)** — база знаний писателя: ASP.NET Core 8 + React 19, JWT-авторизация, десктоп на Tauri
 - **[lowcodeplatform](https://github.com/dimitriy-tolstikov/lowcodeplatform)** — low-code платформа: .NET 8 Clean Architecture + React 19, локальный DevSecOps-стек
@@ -19,4 +19,4 @@ C# · ASP.NET Core · NestJS · React 19 · TypeScript · Vue 3 · WPF · Postgr
 - **[million-item-dual-list](https://github.com/dimitriy-tolstikov/million-item-dual-list)** — двухпанельный список на 1 млн элементов: drag-and-drop, бесконечный скролл, батчинг
 - **[Time-tracker](https://github.com/dimitriy-tolstikov/Time-tracker)** — WPF-трекер рабочего времени с почасовой статистикой и историей по дням
 
-➡️ [Все репозитории](https://github.com/dimitriy-tolstikov?tab=repositories)
+[Все репозитории](https://github.com/dimitriy-tolstikov?tab=repositories)
