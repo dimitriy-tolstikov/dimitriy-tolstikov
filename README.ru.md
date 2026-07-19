@@ -1,6 +1,6 @@
 # Дмитрий Толстиков
 
-**[🇬🇧 English version](README.md)**
+**[🇬🇧 English version](README.md)** · **[🌐 Сайт-портфолио](https://dimitriy-tolstikov.github.io/portfolio/)**
 
 Fullstack-разработчик (.NET Core + React / TypeScript): backend-архитектура, DevOps, инструменты для AI-агентов. Использую AI-агентов в повседневной разработке — и пишу для них MCP-серверы.
 

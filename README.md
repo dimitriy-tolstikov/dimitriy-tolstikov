@@ -1,6 +1,6 @@
 # Dmitriy Tolstikov
 
-**[🇷🇺 Русская версия](README.ru.md)**
+**[🇷🇺 Русская версия](README.ru.md)** · **[🌐 Website](https://dimitriy-tolstikov.github.io/portfolio/)**
 
 Fullstack developer (.NET Core + React / TypeScript) focused on backend architecture, DevOps, and AI-agent tooling. I use AI agents in my daily development workflow — and build MCP servers to make them more effective.
 
