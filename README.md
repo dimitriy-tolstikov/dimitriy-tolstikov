@@ -10,7 +10,7 @@ C# · ASP.NET Core · NestJS · React 19 · TypeScript · Vue 3 · WPF · Postgr
 
 ## Highlights
 
-- **WikiBase** *(private)* — writer's knowledge base: ASP.NET Core 8 + React 19, JWT auth, Tauri desktop app
+- **[Memiqa](https://dimitriy-tolstikov.github.io/portfolio/memiqa)** *(private repo)* — writer's knowledge base: ASP.NET Core 8 + React 19, JWT auth, Tauri desktop app
 - **[ai-support-agent](https://github.com/dimitriy-tolstikov/ai-support-agent)** — AI support agent: FastAPI + React/TS + PostgreSQL (RLS), LLM function calling, voice pipeline over Asterisk/SIP
 - **[mcp-codebase](https://github.com/dimitriy-tolstikov/mcp-codebase)** — MCP server for semantic codebase navigation (AST index for AI agents)
 - **[mcp-web-search](https://github.com/dimitriy-tolstikov/mcp-web-search)** — LLM-optimized web search MCP server with scraping, OCR, caching
