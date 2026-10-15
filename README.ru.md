@@ -19,7 +19,6 @@ C# · ASP.NET Core · NestJS · React 19 · TypeScript · Vue 3 · WPF · Postgr
 - **[geotracker](https://github.com/dimitriy-tolstikov/geotracker)** — realtime GPS-трекинг: .NET 8 + PostGIS + SignalR + Leaflet, генератор 1M точек, Docker
 - **[smart-logistic-auctions](https://github.com/dimitriy-tolstikov/smart-logistic-auctions)** — фронтенд логистических аукционов: React 19 strict TS, FSD, MSW по OpenAPI
 - **[TaskManager](https://github.com/dimitriy-tolstikov/TaskManager)** — менеджер задач: Next.js + Prisma + PostgreSQL + shadcn/ui, e2e-тесты на Playwright
-- **[million-item-dual-list](https://github.com/dimitriy-tolstikov/million-item-dual-list)** — двухпанельный список на 1 млн элементов: drag-and-drop, бесконечный скролл, батчинг
 - **[Time-tracker](https://github.com/dimitriy-tolstikov/Time-tracker)** — WPF-трекер рабочего времени с почасовой статистикой и историей по дням
 
 [Все репозитории](https://github.com/dimitriy-tolstikov?tab=repositories)
