@@ -14,7 +14,7 @@ C# · ASP.NET Core · NestJS · React 19 · TypeScript · Vue 3 · WPF · Postgr
 - **[ai-support-agent](https://github.com/dimitriy-tolstikov/ai-support-agent)** — AI-агент поддержки: FastAPI + React/TS + PostgreSQL (RLS), LLM function calling, голосовой конвейер на Asterisk/SIP
 - **[mcp-codebase](https://github.com/dimitriy-tolstikov/mcp-codebase)** — MCP-сервер семантической навигации по кодовой базе (AST-индекс для AI-агентов)
 - **[mcp-web-search](https://github.com/dimitriy-tolstikov/mcp-web-search)** — MCP-сервер веб-поиска для LLM: скрапинг, OCR, кэширование
-- **[Microservices-Example](https://github.com/dimitriy-tolstikov/Microservices-Example)** — микросервисы на .NET 8 через Kafka и RabbitMQ, outbox pattern, DLX
+- **[Microservices](https://github.com/dimitriy-tolstikov/Microservices)** — микросервисы на .NET 8 через Kafka и RabbitMQ, outbox pattern, DLX
 - **[WarehouseSystem](https://github.com/dimitriy-tolstikov/WarehouseSystem)** — система управления складом: ASP.NET Core 9 + React 19 + PostgreSQL
 - **[geotracker](https://github.com/dimitriy-tolstikov/geotracker)** — realtime GPS-трекинг: .NET 8 + PostGIS + SignalR + Leaflet, генератор 1M точек, Docker
 - **[smart-logistic-auctions](https://github.com/dimitriy-tolstikov/smart-logistic-auctions)** — фронтенд логистических аукционов: React 19 strict TS, FSD, MSW по OpenAPI
