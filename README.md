@@ -15,7 +15,7 @@ C# · ASP.NET Core · NestJS · React 19 · TypeScript · Vue 3 · WPF · Postgr
 - **[mcp-codebase](https://github.com/dimitriy-tolstikov/mcp-codebase)** — MCP server for semantic codebase navigation (AST index for AI agents)
 - **[mcp-web-search](https://github.com/dimitriy-tolstikov/mcp-web-search)** — LLM-optimized web search MCP server with scraping, OCR, caching
 - **[Microservices-Example](https://github.com/dimitriy-tolstikov/Microservices-Example)** — .NET 8 microservices over Kafka & RabbitMQ, outbox pattern, DLX
-- **[Warehouse-System](https://github.com/dimitriy-tolstikov/Warehouse-System)** — warehouse management: ASP.NET Core 9 + React 19 + PostgreSQL
+- **[WarehouseSystem](https://github.com/dimitriy-tolstikov/WarehouseSystem)** — warehouse management: ASP.NET Core 9 + React 19 + PostgreSQL
 - **[geotracker](https://github.com/dimitriy-tolstikov/geotracker)** — realtime GPS tracking: .NET 8 + PostGIS + SignalR + Leaflet, 1M-point generator, Docker
 - **[smart-logistic-auctions](https://github.com/dimitriy-tolstikov/smart-logistic-auctions)** — logistics auctions frontend: React 19 strict TS, FSD, MSW by OpenAPI
 - **[TaskManager](https://github.com/dimitriy-tolstikov/TaskManager)** — task manager: Next.js + Prisma + PostgreSQL + shadcn/ui, Playwright e2e tests
